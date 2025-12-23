@@ -21,7 +21,7 @@ protected:
 
 private:
 	UPROPERTY()
-	class UcapsuleComponent* CapsuleComp;
+	class UCapsuleComponent* CapsuleComp;
 
 public:	
 	// Called every frame
